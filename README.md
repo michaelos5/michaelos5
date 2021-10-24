@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael but call me Mike</h1>
 <h3 align="center">A Software Engineer with a strong curiosity for all things Tech!</h3>
 
+- 🔭 I’m currently working on **5G Technology**
+
 - 🌱 I’m currently learning **Security, Kotlin**
 
 - 👯 I’m looking to collaborate on **real tech that solves real world problems**
