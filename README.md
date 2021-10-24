@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael but call me Mike</h1>
 <h3 align="center">A Software Engineer with a strong curiosity for all things Tech!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelos5&label=Profile%20views&color=0e75b6&style=flat" alt="michaelos5" /> </p>
-
 - 🌱 I’m currently learning **Security, Kotlin**
 
 - 👯 I’m looking to collaborate on **real tech that solves real world problems**
