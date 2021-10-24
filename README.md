@@ -7,11 +7,7 @@
 
 - 👯 I’m looking to collaborate on **real tech that solves real world problems**
 
-- 👨‍💻 All of my projects are available at [michaelosullivan.ie](michaelosullivan.ie)
-
 - 💬 Ask me about **Angular, 3D Printing**
-
-- 📫 How to reach me **michaelosullivan268@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/michael-o-sullivan-528b83131/](https://www.linkedin.com/in/michael-o-sullivan-528b83131/)
 
