@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/michael-o-sullivan-528b83131/](https://www.linkedin.com/in/michael-o-sullivan-528b83131/)
 
-- ⚡ Fun fact **I'm a car enthusiast who's not afraid to get under the bonnet**
+- ⚡ Fun fact **I'm a car enthusiast / amateur Mechanic during my time off**
 
 
 <h3 align="left">Languages and Tools:</h3>
