@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Michael but call me Mike</h1>
-<h3 align="center">A Software Engineer with a strong curiosity for all things Tech!</h3>
+<h3 align="center">A Senior Software Engineer with a strong curiosity for all things Tech!</h3>
 
-- 🔭 I’m currently working on **Public Transport Optimisation**
+- 🔭 I’m currently working on **Public Transport Optimisation** and **Building AI agents/processes**
 
-- 🌱 I’m currently learning **Security, Kotlin**
+- 🌱 I’m currently learning **AI Agents, MCP and Kotlin**
 
 - 👯 I’m looking to collaborate on **real tech that solves real world problems**
 
-- 💬 Ask me about **Angular, 3D Printing**
+- 💬 Ask me about **AI processes, Transport Data, 3D Printing**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/michael-o-sullivan-528b83131/](https://www.linkedin.com/in/michael-o-sullivan-528b83131/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/michael-os](https://www.linkedin.com/in/michael-os)
 
-- ⚡ Fun fact **I'm a car enthusiast / amateur Mechanic during my time off**
+- ⚡ Fun fact **I'm a car enthusiast / amateur Mechanic during my time off and enjoy learning about vehicle electronic systems**
 
 
 <h3 align="left">Languages and Tools:</h3>
