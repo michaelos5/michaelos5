@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI Agents, MCP and Kotlin**
 
-- 👯 I’m looking to collaborate on **real tech that solves real world problems**
+- 👯 I’m looking to collaborate on **impactful tech that solves real world problems**
 
 - 💬 Ask me about **AI processes, Transport Data, 3D Printing**
 
